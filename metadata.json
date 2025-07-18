@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Anime Link Finder",
+  "description": "An AI-powered assistant to find anime episode links. Features a simulated token system with a 10-token free trial, 3 daily free tokens, and a mock payment system to add more tokens.",
+  "requestFramePermissions": []
+}
